@@ -1,6 +1,16 @@
 # 💫 About Me:
-Currently focused on Learning and strengthening my skills in Python & Data Science. And looking to collaborate on Beginner-friendly Python and data science projects.<br>I love learning how technology and business work together. 
+👋 Hi, I’m Keni Thapa  
+I specialize in:
+- Social media content planning & scheduling
+- Instagram & Facebook page management
+- Engagement tracking & analytics
+  
+Currently focused on Learning and strengthening my skills in Python & Data Science with a growing interest in data-driven marketing and analytics.<br>I love learning how technology and business work together. 
 
+Tools:
+Meta Business Suite | Canva | Google Analytics
+
+📍 Open to Social Media & Digital Marketing roles
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Keny Thapa Magar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knyy.th) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Keni Thapa) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/knyyth05) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@knyy.th) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenithapa29@gmail.com) 
